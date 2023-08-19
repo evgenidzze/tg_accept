@@ -6,7 +6,7 @@ from aiogram.types import ChatJoinRequest
 from aiogram import Bot, Dispatcher, F
 
 BOT_TOKEN = '6173620618:AAFNRUg687y6od2ueJENdn5i_KqdYNhSZpE'
-CHANNEL_ID = -1001732464317
+CHANNEL_ID = -1001839929273
 ADMIN_ID = 397875584
 
 
